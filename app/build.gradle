@@ -31,7 +31,7 @@ android {
     compileSdkVersion 22
 
     defaultConfig {
-        applicationId "com.google.samples.apps.topeka"
+        applicationId "com.ccc.samples.apps.topeka"
         minSdkVersion 21
         targetSdkVersion 22
         versionCode Integer.parseInt(buildTime())
